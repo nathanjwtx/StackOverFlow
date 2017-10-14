@@ -1,0 +1,10 @@
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\bin\Debug\netcoreapp2.0\StackOverFlow.deps.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\bin\Debug\netcoreapp2.0\StackOverFlow.runtimeconfig.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\bin\Debug\netcoreapp2.0\StackOverFlow.runtimeconfig.dev.json
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\bin\Debug\netcoreapp2.0\StackOverFlow.dll
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\bin\Debug\netcoreapp2.0\StackOverFlow.pdb
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\obj\Debug\netcoreapp2.0\StackOverFlow.csproj.CoreCompileInputs.cache
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\obj\Debug\netcoreapp2.0\StackOverFlow.AssemblyInfoInputs.cache
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\obj\Debug\netcoreapp2.0\StackOverFlow.AssemblyInfo.cs
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\obj\Debug\netcoreapp2.0\StackOverFlow.dll
+C:\Users\Nathan - User\OneDrive\Work - C Sharp\C-Sharp Rider Projects\StackOverFlow\obj\Debug\netcoreapp2.0\StackOverFlow.pdb
