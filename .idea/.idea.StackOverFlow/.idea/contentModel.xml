@@ -13,6 +13,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
+      <e p="StackOverFlow.cs" t="Include" />
       <e p="StackOverFlow.csproj" t="IncludeRecursive" />
       <e p="StackOverFlow.sln" t="IncludeFlat" />
     </e>

@@ -6,30 +6,32 @@ namespace StackOverFlow
     {
         static void Main(string[] args)
         {
+            bool active = true;
             var post = new StackOverFlow();
-            post.Title = "First new post";
-            post.PostBody = "This is where I will post some drivel that is simple";
+            Console.WriteLine("Enter post title: \n");
+            post.Title = Console.ReadLine();
+            Console.WriteLine("Enter description of problem for post body");
+            post.PostBody = Console.ReadLine();
 
-            Console.WriteLine($"You created a new post titled: {post.Title}");
-            Console.WriteLine($"The body of the post is \n{post.PostBody}");
-        }
-    }
-
-    class StackOverFlow
-    {
-        private string _title;
-        private string _postBody;
-
-        public string Title
-        {
-            get { return this._title; }
-            set { this._title = value; }
-        }
-
-        public string PostBody
-        {
-            get => _postBody;
-            set => _postBody = value;
+            Console.WriteLine($"Title: {post.Title}");
+            Console.WriteLine($"Created on: {post.Created}");
+            Console.WriteLine($"Body: \n{post.PostBody}");
+            
+            while (active)
+            {
+                Console.WriteLine("Press [u]p vote or [d]own vote: ");
+                var input = Console.ReadLine();
+                if (input == "u" || input == "d")
+                {
+                    post.UpdateScore(input);
+                    Console.WriteLine(post.Score);
+                }
+                else
+                {
+                    Console.WriteLine($"Final post score was: {post.Score}");
+                    active = false;
+                }
+            }
         }
     }
 }
